@@ -1,0 +1,151 @@
+#+SEQ_TODO: REPORT(r) BUG(b) KNOWNCAUSE(k) | FIXED(f)
+#+SEQ_TODO: TODO(T!) | DONE(D@/!)  CANCELED(C@/!) 
+
+
+* work-list
+
+
+** 全景导购后续需求[0%] 
+*** TODO ok.html页面
+    - State "TODO"       from ""           [2014-06-20 五 17:33]
+*** TODO 相关推荐没有时，直接显示详情页面
+    - State "TODO"       from ""           [2014-06-20 五 17:33]
+*** TODO 猜你喜欢加上两行
+    - State "TODO"       from ""           [2014-06-20 五 17:33]
+
+
+
+
+** DONE [#B] 全景导购 [100%]<2014-06-04 三>-[2014-06-16 一]
+   - State "DONE"       from "TODO"       [2014-06-20 五 17:32]
+   - State "TODO"       from ""           [2014-06-04 三 08:50]
+该任务包含几个步骤
+*** DONE 后端 
+    - State "DONE"       from "TODO"       [2014-06-04 三 09:32] \\
+      基本开发完成，等待联调
+    - State "TODO"       from ""           [2014-06-04 三 09:24]
+*** DONE 前端
+    - State "DONE"       from "TODO"       [2014-06-16 一 09:35] \\
+      OK
+    - State "TODO"       from ""           [2014-06-04 三 09:24]
+*** CANCELED 打点
+    DEADLINE: <2014-06-09 一>
+    - State "CANCELED"   from "TODO"       [2014-06-12 四 10:25] \\
+      木晗在6月底前完成，这块单独起需求改
+    - State "TODO"       from ""           [2014-06-04 三 09:23]
+*** DONE cmserver op联调
+    DEADLINE: <2014-06-09 一>
+    - State "DONE"       from "TODO"       [2014-06-11 三 11:23] \\
+      要带op参数
+    - State "TODO"       from ""           [2014-06-04 三 09:23]
+*** DONE 测试    
+    DEADLINE: <2014-06-16 一>
+    - State "DONE"       from "TODO"       [2014-06-16 一 09:35] \\
+      OK
+    - State "TODO"       from ""           [2014-06-04 三 09:23]
+      
+*** DONE 安全 [100%]
+    - State "DONE"       from ""           [2014-06-17 二 15:39] \\
+      ok
+**** DONE id:num,length
+     - State "DONE"       from "TODO"       [2014-06-16 一 15:08] \\
+       OK
+     - State "TODO"       from ""           [2014-06-16 一 10:35]
+**** DONE pid,tx_pid转义
+     - State "DONE"       from "TODO"       [2014-06-17 二 14:08] \\
+       OK
+     - State "TODO"       from ""           [2014-06-16 一 10:35]
+**** DONE httponly
+     - State "DONE"       from "TODO"       [2014-06-16 一 15:08] \\
+       OK
+     - State "TODO"       from ""           [2014-06-16 一 10:35]
+
+*** DONE antx配置项
+    - State "DONE"       from "TODO"       [2014-06-17 二 15:39] \\
+      done
+    - State "TODO"       from ""           [2014-06-16 一 14:50]
+*** DONE 自测报告
+    - State "DONE"       from "TODO"       [2014-06-18 三 13:46] \\
+      ok
+    - State "TODO"       from ""           [2014-06-18 三 08:57]
+*** DONE aone打包，测试环境部署
+    - State "DONE"       from "TODO"       [2014-06-18 三 09:47] \\
+      ok
+    - State "TODO"       from ""           [2014-06-18 三 08:57]
+*** DONE conflict resolve
+    - State "DONE"       from "TODO"       [2014-06-18 三 17:16] \\
+      ok
+    - State "TODO"       from ""           [2014-06-18 三 14:05]
+*** DONE 线上机器配置
+    - State "DONE"       from "TODO"       [2014-06-18 三 17:16] \\
+      ok
+    - State "TODO"       from ""           [2014-06-11 三 11:25]
+
+*** DONE 发布--验证
+    - State "DONE"       from ""           [2014-06-20 五 17:31] \\
+      ok
+
+
+** cmweb切流量 [100%]
+*** DONE hollywood线上启动好
+    - State "DONE"       from "TODO"       [2014-06-16 一 09:36] \\
+      OK
+    - State "TODO"       from ""           [2014-06-12 四 10:24]
+*** DONE bucktest
+    - State "DONE"       from "TODO"       [2014-06-25 三 10:24] \\
+      ok
+    - State "TODO"       from ""           [2014-06-12 四 10:24]
+*** DONE cmweb开发
+    - State "DONE"       from "TODO"       [2014-06-25 三 10:24] \\
+      ok
+    - State "TODO"       from ""           [2014-06-12 四 10:24]
+*** DONE 测试
+    - State "DONE"       from "TODO"       [2014-06-25 三 10:24] \\
+      ok
+    - State "TODO"       from ""           [2014-06-12 四 10:24]
+
+  
+     
+
+** TODO [#C] cmweb性能优化
+   DEADLINE: <2014-07-31 四>
+   - State "TODO"       from ""           [2014-06-04 三 09:00]
+
+     
+     
+
+
+
+
+
+
+     
+** [#B] 机器迁移 [100%]
+*** DONE p4psync
+    - State "DONE"       from "TODO"       [2014-06-04 三 08:55] \\
+      OK
+    - State "TODO"       from ""           [2014-06-04 三 08:54]
+  
+*** DONE hollywood 
+    - State "TODO"       from ""           [2014-06-04 三 09:01]
+*** DONE cmweb [100%]
+    - State "TODO"       from ""           [2014-06-04 三 08:49]
+**** DONE 站外
+     - State "DONE"       from "DONE"       [2014-06-18 三 09:00] \\
+       ok
+**** DONE 站内
+     - State "DONE"       from "TODO"       [2014-06-18 三 17:17] \\
+       ok
+     - State "TODO"       from ""           [2014-06-18 三 08:58]
+
+       
+
+
+** DONE [#A] 结迁算移云梯
+   DEADLINE: <2014-06-04 三>
+   - State "DONE"       from "DONE"       [2014-06-04 三 12:34] \\
+     校正验证OK
+   - State "DONE"       from "TODO"       [2014-06-04 三 12:27] \\
+     迁移完成，待校正与日终文件生成后验证
+   - State "TODO"       from ""           [2014-06-04 三 08:50]
+   
