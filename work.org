@@ -4,6 +4,11 @@
 
 * work-list
 
+
+** TODO cosite分隔符
+   - State "TODO"       from ""           [2014-06-26 四 12:46]
+
+
 ** 全景导购后续需求[0%] 
 *** TODO ok.html页面
     - State "TODO"       from ""           [2014-06-20 五 17:33]
@@ -16,6 +21,15 @@
 
 *** TODO 点击相关推荐，成为置顶offer
     - State "TODO"       from ""           [2014-06-25 三 15:01]
+
+
+** TODO jetty study
+   - State "TODO"       from ""           [2014-06-26 四 12:46]
+
+
+** TODO ubuntu 虚拟桌面
+   - State "TODO"       from ""           [2014-06-26 四 12:46]
+
 
 ** TODO cmweb性能优化
    DEADLINE: <2014-07-31 四>
