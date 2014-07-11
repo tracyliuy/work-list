@@ -1,0 +1,15 @@
+#+SEQ_TODO: REPORT(r) BUG(b) KNOWNCAUSE(k) | FIXED(f)
+#+SEQ_TODO: TODO(T!) | DONE(D@/!)  CANCELED(C@/!) 
+
+*study list
+
+** jetty 
+*** file:/home/tracy/work/work-list/study/jetty.txt
+
+
+
+** top command
+***  file:/home/tracy/work/work-list/study/top.txt
+** child
+***  file:/home/tracy/work/work-list/study/child.txt
+

@@ -5,18 +5,19 @@
 * work-list
 
 
-** TODO cosite分隔符
+** DONE cosite分隔符
    - State "TODO"       from ""           [2014-06-26 四 12:46]
 
 
-** 全景导购后续需求[0%] 
-*** TODO ok.html页面
+** 全景导购后续需求[25%] 
+*** DONE ok.html页面
+    - State "DONE"       from "TODO"       [2014-07-11 五 09:23] \\
+      ok
     - State "TODO"       from ""           [2014-06-20 五 17:33]
 *** TODO 相关推荐没有时，直接显示详情页面
     - State "TODO"       from ""           [2014-06-20 五 17:33]
 *** TODO 猜你喜欢加上两行
     - State "TODO"       from ""           [2014-06-20 五 17:33]
-
 
 
 *** TODO 点击相关推荐，成为置顶offer
@@ -34,6 +35,16 @@
 ** TODO cmweb性能优化
    DEADLINE: <2014-07-31 四>
    - State "TODO"       from ""           [2014-06-04 三 09:00]
+*** TODO 添加计时filter
+    - State "TODO"       from ""           [2014-07-11 五 09:19]
+*** TODO 统计cookie log中的响应时间，找了响应时间最长的request
+    - State "TODO"       from ""           [2014-07-11 五 09:19]
+*** TODO 在预发布机上不加filter，使用ab压测
+    - State "TODO"       from ""           [2014-07-11 五 09:19]
+*** TODO 在预发布机上加上filter，使用ab压测  
+    - State "TODO"       from ""           [2014-07-11 五 09:19]
+
+
 
 
 ** 全景导购 [100%]<2014-06-04 三>-[2014-06-16 一]
