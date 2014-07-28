@@ -4,7 +4,11 @@
 
 * work-list
 
+** TODO abench segmentation fault
+   - State "TODO"       from ""           [2014-07-25 五 14:24]
 
+** TODO jetty nio blocked
+   - State "TODO"       from ""           [2014-07-25 五 14:24]
 
 ** 全景导购后续需求[25%] 
 *** DONE ok.html页面
@@ -13,9 +17,7 @@
     - State "TODO"       from ""           [2014-06-20 五 17:33]
 *** TODO 相关推荐没有时，直接显示详情页面
     - State "TODO"       from ""           [2014-06-20 五 17:33]
-*** TODO 猜你喜欢加上两行
-    - State "TODO"       from ""           [2014-06-20 五 17:33]
-
+- State "TODO"       from ""           [2014-06-20 五 17:33]
 
 *** TODO 点击相关推荐，成为置顶offer
     - State "TODO"       from ""           [2014-06-25 三 15:01]
@@ -25,16 +27,17 @@
    - State "TODO"       from ""           [2014-06-26 四 12:46]
 
 
-** TODO ubuntu 虚拟桌面
-   - State "TODO"       from ""           [2014-06-26 四 12:46]
 
 
-** TODO cmweb性能优化
+** TODO cmweb性能优化[%]
    DEADLINE: <2014-07-31 四>
    - State "TODO"       from ""           [2014-06-04 三 09:00]
-*** TODO 添加计时filter
-    - State "TODO"       from ""           [2014-07-11 五 09:19]
-*** TODO 统计cookie log中的响应时间，找了响应时间最长的request
+*** DONE 添加计时filter
+    - State "DONE"       from "TODO"       [2014-07-25 五 14:22] \\
+      done
+*** DONE 统计cookie log中的响应时间，找了响应时间最长的request
+    - State "DONE"       from "TODO"       [2014-07-25 五 14:22] \\
+      done
     - State "TODO"       from ""           [2014-07-11 五 09:19]
 *** TODO 在预发布机上不加filter，使用ab压测
     - State "TODO"       from ""           [2014-07-11 五 09:19]
